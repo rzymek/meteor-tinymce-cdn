@@ -1,6 +1,6 @@
 Package.describe({
     name: 'rzymek:tinymce-cdn',
-    version: '4.0.0',
+    version: '4.0.0_2',
     summary: 'TinyMCE is a platform independent web-based JavaScript HTML WYSIWYG editor control. CDN version',
     git: 'https://github.com/rzymek/meteor-tinymce-cdn.git',
     documentation: 'README.md'
